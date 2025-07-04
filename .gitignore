@@ -6,3 +6,7 @@ backend/.env
 
 # Chroma database files
 chroma/chroma_data/
+chroma/chroma_data/chroma.sqlite3
+
+# OS files
+.DS_Store
